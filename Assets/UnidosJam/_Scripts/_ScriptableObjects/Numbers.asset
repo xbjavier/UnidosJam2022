@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0cf9b20d6c41fb4a83cc97360ed02c6, type: 3}
+  m_Name: Numbers
+  m_EditorClassIdentifier: 
+  numbers:
+  - number: 0
+    words:
+    - language: es
+      word: cero
+    - language: en
+      word: zero
+  - number: 1
+    words:
+    - language: es
+      word: uno
+    - language: en
+      word: one
+  - number: 2
+    words:
+    - language: es
+      word: dos
+    - language: en
+      word: two
+  - number: 3
+    words:
+    - language: es
+      word: tres
+    - language: en
+      word: three
+  - number: 4
+    words:
+    - language: es
+      word: cuatro
+    - language: en
+      word: four
+  - number: 5
+    words:
+    - language: es
+      word: cinco
+    - language: en
+      word: five
+  - number: 6
+    words:
+    - language: es
+      word: seis
+    - language: en
+      word: six
+  - number: 7
+    words:
+    - language: es
+      word: siete
+    - language: en
+      word: seven
+  - number: 8
+    words:
+    - language: es
+      word: ocho
+    - language: en
+      word: eight
+  - number: 9
+    words:
+    - language: es
+      word: nueve
+    - language: en
+      word: nine
+  - number: 10
+    words:
+    - language: es
+      word: diez
+    - language: en
+      word: ten
+  - number: 11
+    words:
+    - language: es
+      word: once
+    - language: en
+      word: eleven
+  - number: 12
+    words:
+    - language: es
+      word: doce
+    - language: en
+      word: twelve
+  - number: 13
+    words:
+    - language: es
+      word: trece
+    - language: en
+      word: thirteen
+  - number: 14
+    words:
+    - language: es
+      word: catorce
+    - language: en
+      word: fourteen
+  - number: 15
+    words:
+    - language: es
+      word: quince
+    - language: en
+      word: fifteen
+  - number: 16
+    words:
+    - language: es
+      word: dieciseis
+    - language: en
+      word: sixteen
+  - number: 17
+    words:
+    - language: es
+      word: diecisiete
+    - language: en
+      word: seventeen
+  - number: 18
+    words:
+    - language: es
+      word: dieciocho
+    - language: en
+      word: eighteen
+  - number: 19
+    words:
+    - language: es
+      word: diecinueve
+    - language: en
+      word: nineteen
+  - number: 20
+    words:
+    - language: es
+      word: veinte
+    - language: en
+      word: twenty
+  - number: 30
+    words:
+    - language: es
+      word: treinta
+    - language: en
+      word: thirity
+  - number: 40
+    words:
+    - language: es
+      word: cuarenta
+    - language: en
+      word: fourty
+  - number: 50
+    words:
+    - language: es
+      word: cincuenta
+    - language: en
+      word: fifty
+  - number: 60
+    words:
+    - language: es
+      word: sesenta
+    - language: en
+      word: sixty
+  - number: 70
+    words:
+    - language: es
+      word: setenta
+    - language: en
+      word: seventy
+  - number: 80
+    words:
+    - language: es
+      word: ochenta
+    - language: en
+      word: eighty
+  - number: 90
+    words:
+    - language: es
+      word: noventa
+    - language: en
+      word: ninety
+  - number: 100
+    words:
+    - language: es
+      word: cien
+    - language: en
+      word: hundred
